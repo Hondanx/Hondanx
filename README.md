@@ -39,7 +39,7 @@ I regularly build lab environments and scripts to:
 
 ## 📈 GitHub Stats
 
-![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanadesmail&show_icons=true&theme=github_dark)
+![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hondanx&show_icons=true&theme=tokyonight)
 
 ---
 
