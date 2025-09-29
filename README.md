@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm passionate about building reliable, automated infrastr
 
 - **Automation**: Ansible, Bash, GitHub Actions
 - **Containers**: Docker, Podman
-- **Orchestration**: Docker Compose
+- **Orchestration**: Docker Compose, Docker Swarm , kubernetes , EKS 
 - **Monitoring & Logging**: Graylog, Prometheus, Grafana
 - **Networking & Security**: FortiGate, firewalld, iptables
 - **Linux Administration**: RHEL, CentOS, Ubuntu
