@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm passionate about building reliable, automated infrastr
 
 - ✅ **Certified Linux Administrator**
 - ✅ **Certified Cloud Administrator**
+- ✅ **Certified kubernetes Administrator**
 
 ---
 
